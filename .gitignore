@@ -1,0 +1,11 @@
+.env
+**/.env
+**/application-local.properties
+**/target/
+*.class
+**/data/
+**/logs/
+*.log
+**/.maven/
+.idea/
+*.iml
